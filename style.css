@@ -32,3 +32,11 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+#lightbox img {
+    max-width: 90%;
+    max-height: 80%;
+    background-color: black;
+    padding: 4px;
+    border: 2px solid white;
+}
